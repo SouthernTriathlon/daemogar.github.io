@@ -63,7 +63,7 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 1. The swimmer will exchange the chip with the biker who will then go to where the bike is racked.
 1. After completing the bike ride, the biker will rack the bike and then go to the relay exchange area to exchange the chip with the runner.
 1. Relay participants will follow the same protocol as the individual participants for entering and exiting the transition area.
-1. Swim ½ Mile
+1. Swim 400 Meters
 1. Swim line up will be in waves.
 1. For assistance from swim marshals, hold your fist high in the air.
 1. Swim caps are provided and are required.
@@ -71,15 +71,15 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 ### Wet suits are permitted.
 
 1. Swim counterclockwise, the buoys should pass by on your left shoulder.
-1. If you quit during the swim and are rescued and taken to shore, you must walk directly back to the swim start area and return your chip to the swim director immediately.The swim director is Bob Benge and he will be the starter for the race.
+1. If you quit during the swim and are rescued and taken to shore, you must walk directly back to the swim start area and return your chip to the swim director immediately. The swim director is Bob Benge and he will be the starter for the race.
 
-### Bike 18 Miles
+### Bike 12 Miles
 
 1. The roads are open to traffic, so yield to traffic.
 1. Slow down when making a turn.
 1. No drafting.
 1. You must wear a helmet with chinstrap securely fastened that meets safety standards during the bike portion of the event.
-1. Run 4 Miles
+1. Run 5K
 1. Participants must run or walk the entire portion of the run course.
 1. The runner must wear the bib number pinned on their shirt or shorts or strapped on waist line.
 1. Make sure your bib number is in front, especially at the finish line.Failure to do so may cause your race time to be inaccurate.
@@ -93,6 +93,6 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 ---
 ## Course
 
-Swim 400 Meter, Bike 18 Miles, Run 5K
+Swim 400 Meters, Bike 12 Miles, Run 5K
 
 ![Course Route Map](/images/triathlon_map.png)
