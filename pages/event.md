@@ -93,6 +93,6 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 ---
 ## Course
 
-Swim ½ Mile, Bike 18 Miles, Run 4 Miles
+Swim 400 Meter, Bike 18 Miles, Run 5K
 
 ![Course Route Map](/images/triathlon_map.png)
