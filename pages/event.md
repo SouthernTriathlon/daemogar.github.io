@@ -6,6 +6,7 @@ permalink: /pages/event
 
 <!-- style="float: right; margin-top: -100px;" -->
 <div id="map">
+	<div id="pointer" class="fa fa-fw fa-map-marker"></div>
 	<address>
 		Cohutta Springs Conference Center<br/>
 		1175 Cohutta Springs Road<br/>
@@ -18,7 +19,6 @@ permalink: /pages/event
 		<a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=34.890104~-84.726150&amp;sty=r&amp;lvl=12&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
 		<a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=34.890104~-84.726150&amp;sty=r&amp;lvl=12&amp;rtp=~pos.34.890104~-84.726150____&amp;FORM=MBEDLD">Get Directions</a>
 	</div>
-	<div id="pointer" class="fa fa-fw fa-map-marker"></div>
 </div>
 
 ## Directions
