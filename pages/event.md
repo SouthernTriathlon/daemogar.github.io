@@ -12,11 +12,11 @@ permalink: /pages/event
 		Crandall, Georgia 30711<br/>
 		1-800-940-6789<br/>
 	</address>
-	<iframe width="350" height="250" frameborder="0" src="https://www.bing.com/maps/embed?h=250&w=350&cp=35.068500000000014~-85.06249999999999&lvl=11&typ=s&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
+	<iframe width="350" height="250" frameborder="0" src="https://www.bing.com/maps/embed?h=250&w=350&cp=34.890104~-84.726150&lvl=11&typ=s&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no">
 	</iframe>
 	<div style="white-space: nowrap; text-align: center; width: 350px; padding: 6px 0;">
-		<a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=35.068500000000014~-85.06249999999999&amp;sty=r&amp;lvl=11&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
-		<a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=35.068500000000014~-85.06249999999999&amp;sty=r&amp;lvl=11&amp;rtp=~pos.35.068500000000014_-85.06249999999999____&amp;FORM=MBEDLD">Get Directions</a>
+		<a id="largeMapLink" target="_blank" href="https://www.bing.com/maps?cp=34.890104~-84.726150&amp;sty=r&amp;lvl=11&amp;FORM=MBEDLD">View Larger Map</a> &nbsp; | &nbsp;
+		<a id="dirMapLink" target="_blank" href="https://www.bing.com/maps/directions?cp=34.890104~-84.726150&amp;sty=r&amp;lvl=11&amp;rtp=~pos.34.890104~-84.726150____&amp;FORM=MBEDLD">Get Directions</a>
 	</div>
 </div>
 
