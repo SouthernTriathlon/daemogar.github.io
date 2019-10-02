@@ -16,7 +16,7 @@ Timing and Registration is avalible at <a href="https://sunbeltcohuttaspringstri
 *Student rate applies for anyone 24 years of age and under.
 
 |                           | Early Bird       | Pre-registration | Race Day          |
-|                           | Ends 09/25/2019  | Ends 10/01/2019  | Opens at 10:30 AM |
+|                           | Ends 09/25/2019  | Ends 10/02/2019  | Opens at 10:30 AM |
 | ------------------------- |       :---:      |       :---:      |        :---:      |
 | Student Registration*     |        $30       |        $55       |         $70       |
 | General/Open Registration |        $50       |        $75       |         $90       |
