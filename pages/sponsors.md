@@ -36,13 +36,13 @@ permalink: /pages/sponsors/
 </div>
   <div class="card-body">
   <div class="card-text">
-  <div class="card float-left text-center">877-776-4688</div>
+  <div class="card float-left text-center"><span id="gc-number-0" class="gc-cs-link" title="Call with Google Voice">877-776-4688</span></div>
 </div>
   <a href="http://www.morningpointe.com/">http://www.morningpointe.com/</a>
 </div>
 </div>
 </div>
-  <div class="card float-left text-center">
+   <div class="card float-left text-center">
   <div class="card-image">
   <div style="width: 345px; height: 115px;">
   <img class="card-img-top" src="/images/logos/eastridgebicycles.png" style="width: 345px;">
@@ -56,25 +56,11 @@ permalink: /pages/sponsors/
 </div>
   <div class="card float-left text-center">
   <div class="card-image">
-  <div style="width: 345px; height: 115px;">
-  <img class="card-img-top" src="/images/logos/greenbriarcove.png" style="width: 345px;">
-</div>
   <div class="card-body">
+  <h4 class="card-title">Farrow Family Foundation</h4><!--
   <div class="card-text">
-</div>
-  <a href="http://www.seegreenbriarcove.com/">http://www.seegreenbriarcove.com/</a>
-</div>
-</div>
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
-  <div style="width: 345px; height: 115px;">
-  <img class="card-img-top" src="/images/logos/fertility.jpg" style="width: 345px;">
-</div>
-  <div class="card-body">
-  <div class="card-text">
-</div>
-  <a href="http://myfertilitycenter.com/">http://myfertilitycenter.com/</a>
+  <div class="card float-left text-center"></div>
+</div>-->
 </div>
 </div>
 </div>
@@ -82,15 +68,6 @@ permalink: /pages/sponsors/
   <div class="card-image">
   <div style="width: 345px; height: 115px;">
   <img class="card-img-top" src="/images/logos/softtouch.png" style="width: 230px;">
-</div>
-  <div class="card-body">
-  <div class="card-text">
-  <div class="card float-left text-center">April Nelson</div>
-  <div class="card float-left text-center">423-314-7512</div>
-</div>
-  <a href="http://softtouchtherapeuticmassage.com/">http://softtouchtherapeuticmassage.com/</a>
-</div>
-</div>
 </div>
   <div class="card float-left text-center">
   <div class="card-image">
@@ -118,18 +95,6 @@ permalink: /pages/sponsors/
 </div>
   <div class="card float-left text-center">
   <div class="card-image">
-  <div class="card-body">
-  <h4 class="card-title">Collegedale Gentle Dental</h4>
-  <div class="card-text">
-  <div class="card float-left text-center">Joseph Chung, D.D.S.</div>
-  <div class="card float-left text-center">423-396-4222</div>
-</div>
-  <a href="http://www.reason2smile.com/">http://www.reason2smile.com/</a>
-</div>
-</div>
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
   <div style="width: 345px; height: 230px;">
   <img class="card-img-top" src="/images/logos/hoven.png" style="width: 345px;">
 </div>
@@ -138,20 +103,6 @@ permalink: /pages/sponsors/
   <div class="card float-left text-center">423-238-6334</div>
 </div>
   <a href="http://hovencollision.com/">http://hovencollision.com/</a>
-</div>
-</div>
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
-  <div style="width: 345px; height: 115px;">
-  <img class="card-img-top" src="/images/logos/centerforcomprehensivemedicine.jpg" style="width: 345px;">
-</div>
-  <div class="card-body">
-  <div class="card-text">
-  <div class="card float-left text-center">Carlton Vollberg, D.O.</div>
-  <div class="card float-left text-center">423-396-0382</div>
-</div>
-  <a href="http://centerforcompmedicine.com/">http://centerforcompmedicine.com/</a>
 </div>
 </div>
 </div>
@@ -200,30 +151,6 @@ permalink: /pages/sponsors/
   <div class="card-text">
 </div>
   <a href="http://www.highpointclimbing.com/">http://www.highpointclimbing.com/</a>
-</div>
-</div>
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
-  <div style="width: 345px; height: 115px;">
-  <img class="card-img-top" src="/images/logos/abcinc.png" style="width: 230px;">
-</div>
-  <div class="card-body">
-  <div class="card-text">
-</div>
-  <a href="http://www.abcsupply.com/branch/043">http://www.abcsupply.com/branch/043</a>
-</div>
-</div>
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
-  <div style="width: 345px; height: 115px;">
-  <img class="card-img-top" src="/images/logos/benchmark.jpg" style="width: 345px;">
-</div>
-  <div class="card-body">
-  <div class="card-text">
-</div>
-  <a href="http://www.benchmarkpt.com/">http://www.benchmarkpt.com/</a>
 </div>
 </div>
 </div>
@@ -296,7 +223,7 @@ permalink: /pages/sponsors/
 </div>
 </div>
 </div>
-</div>
+</div><!--
   <div class="card float-left text-center">
   <div class="card-image">
   <div style="width: 345px; height: 230px;">
@@ -308,19 +235,7 @@ permalink: /pages/sponsors/
   <a href="https://www.saucampusshop.com/">https://www.saucampusshop.com/</a>
 </div>
 </div>
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
-  <div style="width: 345px; height: 269px;">
-  <img class="card-img-top" src="/images/logos/vm.png" style="width: 230px;">
-</div>
-  <div class="card-body">
-  <div class="card-text">
-</div>
-  <a href="http://vm.southern.edu/">http://vm.southern.edu/</a>
-</div>
-</div>
-</div>
+</div>--><!--
   <div class="card float-left text-center">
   <div class="card-image">
   <div style="width: 345px; height: 121px;">
@@ -332,7 +247,7 @@ permalink: /pages/sponsors/
   <a href="http://www.incordesign.com/">http://www.incordesign.com/</a>
 </div>
 </div>
-</div>
+</div>-->
   <div class="card float-left text-center">
   <div class="card-image">
   <div style="width: 345px; height: 121px;">
@@ -354,20 +269,6 @@ permalink: /pages/sponsors/
   <div class="card-text">
 </div>
   <a href="http://www.southern.edu/">http://www.southern.edu/</a>
-</div>
-</div>
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
-  <div style="width: 345px; height: 150px;">
-  <img class="card-img-top" src="/images/logos/vegobistro.png" style="width: 345px;">
-</div>
-  <div class="card-body">
-  <div class="card-text">
-  <div class="card float-left text-center">David Esterline</div>
-  <div class="card float-left text-center">404-692-1044</div>
-</div>
-  <a href="http://www.vegobistro.com/">http://www.vegobistro.com/</a>
 </div>
 </div>
 </div>
