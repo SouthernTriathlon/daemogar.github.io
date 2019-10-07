@@ -67,11 +67,6 @@ permalink: /pages/sponsors/
   <div class="card float-left text-center">
   <div class="card-image">
   <div style="width: 345px; height: 115px;">
-  <img class="card-img-top" src="/images/logos/softtouch.png" style="width: 230px;">
-</div>
-  <div class="card float-left text-center">
-  <div class="card-image">
-  <div style="width: 345px; height: 115px;">
   <img class="card-img-top" src="/images/logos/collegedalecreditunion.png" style="width: 115px;">
 </div>
   <div class="card-body">
