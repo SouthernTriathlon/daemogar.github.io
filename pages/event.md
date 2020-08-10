@@ -36,8 +36,8 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 ---
 ## Protocols
 
-<span style="color: red;">
-### Screening and Sanitation (**COVID-19**)
+### COVID-19 Changes
+#### See other sections for additional or specific changes
 
 1. All racers, volunteers and staff are asked to self-assess their health. If anyone is experiencing a fever of 100+ or symptoms, they are asked to stay home. Athletes who have experienced symptoms, or live with people who have symptoms, should self-quarantine and not compete in the race until the following are true:
 	1. At least three days (72 hours) have passed since recovery. (Recovery is defined as resolution of fever without use of fever-reducing medications and improvement in respiratory symptoms, e.g. cough, shortness of breath, etc.) **AND**
@@ -50,15 +50,16 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 1. Use of other people’s equipment, phones, tools, etc is discouraged.
 1. Physical contact, including but not limited to, high five’s, hugs, and handshakes is discouraged.
 1. From start to finish, social distancing guidelines will be observed and enforced.  Groups will be discouraged from congregating and participant traffic will be designed to flow in one direction.
-</span>
 
 ### Packet Pickup and Orientation
 
 1. **COVID-19** Race packet pick up will take place using a controlled check in point, one-way flow, and social distancing markers.  All staff or volunteers that cannot maintain social distancing will be required to wear a facemask.
-1. Packet pick-up and body marking is between 10:30 am and 11:45 am on the day of the race.
-1. Orientation (pre-race instructions) is at 11:45 am and required for all participants. Please gather near the swim / race start.
-1. You should be fully registered and checked in before the orientation.
-1. The race starts at 12:30 pm with Wave 1. More information about the waves will be published after online registration closes; on or about midnight the Thursday before the event.
+1. Packet pick-up is between 10:30 am and 11:45 am on the day of the race.
+1. **COVID-19** Athletes should mark themselves before arriving to the event on their right calf.
+	- Individual racers mark their age.
+    - Relay racers mark RM (Relay males), RF (Relay females) and Relay Coed (RC).
+1. **COVID-19** No pre-race instructions, instructions will be posted online.
+1. The race starts at 12:30 pm. **COVID-19** This year will be done in time trail fashion (individual start/timed).
 
 ### Timing Chip and Bib
 
@@ -69,6 +70,7 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 
 ### Transition Area
 
+1. **COVID-19** Bikes will be spaced further apart on the bike racks to accomodate social distancing guidelines. Maximum of two bikes per section per side.
 1. After the swim, participants will run to enter the North end of the transition area, and run down the East side of the transition area to the row where your bike is racked.
 1. Exit from bike rack will be toward west side of transition area. Walk bike in transition area.
 1. Exit on West side and go to South end of transition area to the bike exit/entrance.
@@ -77,23 +79,26 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 1. At the North end exit you will turn left and begin the run down the track behind the transition area.
 
 ### Relay
+1. **COVID-19** No water will be supplied along route. You must bring your own water bottle. Water fill stations will be avalible and volunteers will fill your water bottle if you did not do so before coming.
 1. Relay bikes are to be parked at the South end of the transition area.
 1. Bike and run relay participants are to wait at relay exchange area.All chip exchanges will be done at the relay exchange area.
 1. The swimmer will exchange the chip with the biker who will then go to where the bike is racked.
 1. After completing the bike ride, the biker will rack the bike and then go to the relay exchange area to exchange the chip with the runner.
 1. Relay participants will follow the same protocol as the individual participants for entering and exiting the transition area.
-1. Swim 400 Meters
-1. Swim line up will be in waves.
-1. For assistance from swim marshals, hold your fist high in the air.
+
+### Swim 400 Meters
+
+1. **COVID-19** Participants will line up according to social distancing guidelines.
+1. **COVID-19** The race will start in a time trial fashion with the line being minimum 6 feet apart – entering the water one at a time.
+For assistance from swim marshals, hold your fist high in the air.
 1. Swim caps are provided and are required.
-
-### Wet suits are permitted.
-
+1. **Wet suits are permitted.**
 1. Swim counterclockwise, the buoys should pass by on your left shoulder.
 1. If you quit during the swim and are rescued and taken to shore, you must walk directly back to the swim start area and return your chip to the swim director immediately. The swim director is Bob Benge and he will be the starter for the race.
 
 ### Bike 12 Miles
 
+1. **COVID-19** No water will be supplied along route. You must bring your own water bottle. Water fill stations will be avalible and volunteers will fill your water bottle if you did not do so before coming.
 1. The roads are open to traffic, so yield to traffic.
 1. Slow down when making a turn.
 1. No drafting.
@@ -103,11 +108,23 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 1. The runner must wear the bib number pinned on their shirt or shorts or strapped on waist line.
 1. Make sure your bib number is in front, especially at the finish line.Failure to do so may cause your race time to be inaccurate.
 
+### Run 3.1 Miles (5K)
+
+1. **COVID-19** No water will be supplied along route. You must bring your own water bottle. Water fill stations will be avalible and volunteers will fill your water bottle if you did not do so before coming.
+
 ### Finish Chute
 
-1. Line up in a single file line in the order that you crossed the finish line.
+1. **COVID-19** No congregating in finish line area.
+1. **COVID-19** Volunteers will distribute bottles of water.
 1. Allow the race official to collect your timing chip.
 1. Move out of the chute once your timing chip has been removed.
+1. **COVID-19** Volunteers will direct participants to a social distancing friendly area where they can pickup finisher item and post-race food.
+
+### Post Race
+
+1. **COVID-19** There will be no party/awards ceremony.
+1. **COVID-19** Food will be served by volunteers or pre-packaged. Social distancing guidelines will be in place.
+1. **COVID-19** Results will be given out at the event and overall, individual, and relay awards will be mailed.
 
 ---
 ## Course
