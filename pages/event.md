@@ -2,6 +2,7 @@
 layout: page
 title: Event Information
 permalink: /pages/event
+published: true
 ---
 
 <!-- style="float: right; margin-top: -100px;" -->
@@ -34,6 +35,22 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 
 ---
 ## Protocols
+
+<span style="color: red;">
+### Screening and Sanitation (Covid-19)
+
+1. All racers, volunteers and staff are asked to self-assess their health. If anyone is experiencing a fever of 100+ or symptoms, they are asked to stay home. Athletes who have experienced symptoms, or live with people who have symptoms, should self-quarantine and not compete in the race until the following are true:
+	1. At least three days (72 hours) have passed since recovery. (Recovery is defined as resolution of fever without use of fever-reducing medications and improvement in respiratory symptoms, e.g. cough, shortness of breath, etc.) **AND**
+	1. At least ten (10) days have passed since symptoms first appeared.
+1. Bring your own toilet paper.
+1. Regular hand washing and social distancing is recommended.
+1. Hand washing and sanitizing stations will be available.
+1. Wear a mask when 6 feet social distancing is not easily maintained.
+1. Athletes, staff, volunteers, officials, and spectators should stay home if they are feeling ill.
+1. Use of other people’s equipment, phones, tools, etc is discouraged.
+1. Physical contact, including but not limited to, high five’s, hugs, and handshakes is discouraged.
+1. From start to finish, social distancing guidelines will be observed and enforced.  Groups will be discouraged from congregating and participant traffic will be designed to flow in one direction.
+</span>
 
 ### Packet Pickup and Orientation
 
