@@ -37,7 +37,7 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 ## Protocols
 
 <span style="color: red;">
-### Screening and Sanitation (Covid-19)
+### Screening and Sanitation (**COVID-19**)
 
 1. All racers, volunteers and staff are asked to self-assess their health. If anyone is experiencing a fever of 100+ or symptoms, they are asked to stay home. Athletes who have experienced symptoms, or live with people who have symptoms, should self-quarantine and not compete in the race until the following are true:
 	1. At least three days (72 hours) have passed since recovery. (Recovery is defined as resolution of fever without use of fever-reducing medications and improvement in respiratory symptoms, e.g. cough, shortness of breath, etc.) **AND**
@@ -54,6 +54,7 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 
 ### Packet Pickup and Orientation
 
+1. **COVID-19** Race packet pick up will take place using a controlled check in point, one-way flow, and social distancing markers.  All staff or volunteers that cannot maintain social distancing will be required to wear a facemask.
 1. Packet pick-up and body marking is between 10:30 am and 11:45 am on the day of the race.
 1. Orientation (pre-race instructions) is at 11:45 am and required for all participants. Please gather near the swim / race start.
 1. You should be fully registered and checked in before the orientation.
