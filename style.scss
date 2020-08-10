@@ -388,3 +388,15 @@ address {
     right: -161px;
     color: red;
 }
+
+#covid-19-banner {
+	display: block;
+	width: 100%;
+	background-color: pink;
+	text-align: center;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 5px;
+	border: 1px solid red;
+	clear: both;
+}
