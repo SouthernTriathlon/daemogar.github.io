@@ -70,6 +70,8 @@ Take US HWY 411 approximately 7 miles South of the Georgia/Tennessee state line 
 
 ### Transition Area
 
+![Transition Area Map](/images/transition-area-map.png)
+
 1. **COVID-19** Bikes will be spaced further apart on the bike racks to accomodate social distancing guidelines. Maximum of two bikes per section per side.
 1. After the swim, participants will run to enter the North end of the transition area, and run down the East side of the transition area to the row where your bike is racked.
 1. Exit from bike rack will be toward west side of transition area. Walk bike in transition area.
