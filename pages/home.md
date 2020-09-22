@@ -2,6 +2,7 @@
 layout: page
 title: Home Page
 permalink: /pages/home
+published: true
 ---
 
 ![Southern Triathlon Logo](/images/logos/triathlon.png#right)
@@ -16,9 +17,8 @@ Timing and Registration is avalible at <a href="https://sunbeltcohuttaspringstri
 *Student rate applies for anyone 24 years of age and under.
 
 |                           | Early Bird       | Pre-registration | Race Day          |
-|                           | Ends 09/23/2020  | Ends 09/29/2020  | Opens at 11:00 AM |
+|                           | Ends 09/23/2020  | Ends 09/30/2020  | Opens at 11:00 AM |
 | ------------------------- |       :---:      |       :---:      |        :---:      |
 | Student Registration*     |        $30       |        $55       |         $70       |
 | General/Open Registration |        $50       |        $75       |         $90       |
 | Relay Teams               |        $75       |        $99       |        $120       |
-
